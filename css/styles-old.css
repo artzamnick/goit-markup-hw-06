@@ -348,7 +348,7 @@ flex-basis: calc((100% - 3 * 24px) / 4);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 } */
 /* footer */
-:root {
+/* :root {
     --cloud: #f4f4fd;
 }
 .footer {
@@ -485,9 +485,9 @@ flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .footer-subscribe-icon {
     fill: #fff;
-}
+} */
 /* modal window */
-:root {
+/* :root {
     --color-label: #8e8f99;
     --color-checked-bg: #404bbf;
     --icon-fill-color: #F4F4FD;
@@ -677,3 +677,4 @@ fill: #ffffff;
     text-decoration: underline;
     text-decoration-skip-ink: none;
 }
+    */
