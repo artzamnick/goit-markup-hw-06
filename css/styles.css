@@ -62,6 +62,13 @@ button {
         padding: 0 15px;
     }
 }
+:root {
+--color-label: #8e8f99;
+--color-checked-bg: #404bbf;
+--icon-fill-color: #f4f4fd;
+--link-color: #4d5ae5;
+--cloud: #f4f4fd;
+}
 
 /* header */
 .header {
@@ -808,9 +815,6 @@ display: none;
 }
 
 /* footer */
-:root {
---cloud: #f4f4fd;
-}
 .footer {
     background-color: #2e2f42;
     padding: 96px 0; 
@@ -1001,12 +1005,6 @@ display: none;
 }
 
 /* modal window */
-:root {
---color-label: #8e8f99;
---color-checked-bg: #404bbf;
---icon-fill-color: #f4f4fd;
---link-color: #4d5ae5;
-}
 .backdrop {
     position: fixed;
     inset: 0;
